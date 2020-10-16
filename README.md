@@ -13,7 +13,7 @@
 [![Documentation](https://img.shields.io/badge/docs-master-blue.svg)](https://tbeason.github.io/QuadGG.jl/dev)
 -->
 
-`QuadGG.jl` provides a pure Julia implementation of the MATLAB quadrature routines from Gander & Gauschi (2000) ["Adaptive Quadrature -- Revisited"](https://link.springer.com/article/10.1023/A:1022318402393). 
+`QuadGG.jl` provides a pure Julia implementation of the MATLAB quadrature routines from Gander & Gautschi (2000) ["Adaptive Quadrature -- Revisited"](https://link.springer.com/article/10.1023/A:1022318402393). 
 
 The first is an adaptive Gauss-Lobatto method, while the second is an adaptive Simpson's rule. The Gauss-Lobatto routine seems to be the preferred method of the two.
 
